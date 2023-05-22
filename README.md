@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Games Shop" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Games Shop" src="./images/preview.png" width="100%">
 </p>
 
 ## Tecnologias
